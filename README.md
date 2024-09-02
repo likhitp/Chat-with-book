@@ -70,4 +70,4 @@ With **Chat with Your Books**, transform the way you interact with your document
 
 ---
 
-**Developed with 💡 and ☕ by [Your Name]**
+**Developed with 💡 and ☕ by Likhit parameshwarappa**
